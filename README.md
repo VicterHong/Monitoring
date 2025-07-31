@@ -15,5 +15,5 @@ python3 send_bandwidth_to_firebase.py
 <p></p>
 📝 Jalankan laporan harian:<p></p>
 python3 generate_daily_summary.py
-<p></p>
-💡 Gunakan cron atau systemd untuk otomatisasi.
+<p></p> 
+<p></p>💡 Gunakan cron atau systemd untuk otomatisasi.
