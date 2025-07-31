@@ -7,10 +7,10 @@
 - config.ini                    → Konfigurasi interface & Firebase
 - firebase-key.json            → Tambahkan sendiri (dari Firebase service account)
 <p></p>
-📦 Instalasi:
+📦 Instalasi:<p></p>
 pip install psutil firebase-admin
 <p></p>
-🧪 Jalankan monitoring:
+🧪 Jalankan monitoring:<p></p>
 python3 send_bandwidth_to_firebase.py
 <p></p>
 📝 Jalankan laporan harian:
