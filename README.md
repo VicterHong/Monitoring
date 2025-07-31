@@ -1,9 +1,9 @@
-<h1>Sistem Monitoring Bandwidth</h1>h1>
+<h1>Sistem Monitoring Bandwidth</h1>
 
-📁 File:
+<p>📁 File:</p>
 - send_bandwidth_to_firebase.py → Kirim data ke Firebase tiap 5 detik
 - generate_daily_summary.py     → Buat laporan total harian ke Firebase
-- config.ini                    → Konfigurasi interface & Firebase
+<p>- config.ini </p>                   → Konfigurasi interface & <p>Firebase</p>
 - firebase-key.json             → Tambahkan sendiri (dari Firebase service account)
 
 📦 Instalasi:
