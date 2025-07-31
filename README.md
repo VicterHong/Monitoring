@@ -1,4 +1,4 @@
-<h1>Sistem Monitoring Bandwidth<h1>
+<h1>Sistem Monitoring Bandwidth</h1>h1>
 
 📁 File:
 - send_bandwidth_to_firebase.py → Kirim data ke Firebase tiap 5 detik
