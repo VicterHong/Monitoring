@@ -8,7 +8,6 @@ jobs:
     strategy:
       max-parallel: 5
 
-    # Menyeleksi shell agar Conda otomatis aktif di setiap step secara aman
     defaults:
       run:
         shell: bash -el {0}
@@ -16,7 +15,6 @@ jobs:
     steps:
     - uses: actions/checkout@v4
 
-    # Menggunakan Github Action resmi untuk Conda (Menggantikan setup-python lama)
     - name: Set up Conda
       uses: conda-incubator/setup-miniconda@v3
       with:
